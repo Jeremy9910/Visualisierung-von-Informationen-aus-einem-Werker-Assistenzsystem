@@ -1,1 +1,0 @@
-# Visualisierung-von-Informationen-aus-einem-Werker-Assistenzsystem
